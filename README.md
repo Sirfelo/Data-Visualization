@@ -1,5 +1,5 @@
 #  Prosper Loan Data Exploration
-## byFelix oloyede
+
 
 ## Dataset
 
